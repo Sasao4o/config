@@ -1,6 +1,7 @@
 example.organization.property: "I AM THE DEFAULT ORGANIZATION SERVICE"
 spring.datasource.url: "jdbc:postgresql://database:5432/dummyv2"
 spring.datasource.username: "postgres"
+spring.datasource.password: "p0stgr@s"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
 spring.jpa.properties.hibernate.dialect: "org.hibernate.dialect.PostgreSQLDialect"
